@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FareenaS
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently working in First American India as Technical Trainee
-- 💞️ I’m looking to collaborate on Web development projects
+- 💞️ I’m looking to collaborate on DB and ETL development projects
 - 📫 How to reach me ...fareenasghouri@gmail.com
 
 <!---
